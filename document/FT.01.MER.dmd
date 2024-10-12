@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="FT.01.MER" id="85576568-79C3-EBA7-6A9A-B9078922B87B" version="3.5">
+<createdBy>pc</createdBy>
+<createdTime>2024-09-29 06:00:31 UTC</createdTime>
+<ownerDesignName>trabalhoFIAPSQLmodeler.0</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>85576568-79C3-EBA7-6A9A-B9078922B87B</designId>
+</OSDM_Design>
