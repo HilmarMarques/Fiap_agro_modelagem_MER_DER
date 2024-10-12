@@ -189,7 +189,7 @@ Markdown Guide: https://www.markdownguide.org/
 
 ## Desenvolvedores
 
-![grupo_fiap])(https://github.com/IolandaManzali/decolando_com-_ciencia_de_dados_grupo21/blob/main/assets/grupo_fiap.jpg)
+![grupo_fiap](https://github.com/IolandaManzali/um_mapa_do_tesouro_grupo30/blob/main/assets/grupo_fiap.jpg)
 
 ## 📋 Licença
 
