@@ -7,7 +7,7 @@
 <br>
 
 # Nome do projeto - Um Mapa do Tesouro
-![um_mapa_do_tesouro.jpg](https://github.com/IolandaManzali/IolandaManzali/blob/main/um_mapa_do_tesouro.jpg)
+![um_mapa_do_tesouro.jpg](https://github.com/IolandaManzali/decolando_com-_ciencia_de_dados_grupo21/blob/main/assets/um_mapa_do_tesouro.jpg)
 
 [![Versão](https://img.shields.io/badge/version-1.0.0-blue)](https://shields.io/badges)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
@@ -42,7 +42,7 @@ Para desenvolver essa atividade foram considerados os seguintes aspectos:
 
 ## Diagrama Entidade-Relacionamento (DER)
 
-![der.rev_final](https://github.com/IolandaManzali/IolandaManzali/blob/main/der.rev_final.jpg)
+![der.rev_final]( )
 
 ### Entidades e Atributos
 
