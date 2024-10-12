@@ -42,7 +42,7 @@ Para desenvolver essa atividade foram considerados os seguintes aspectos:
 
 ## Diagrama Entidade-Relacionamento (DER)
 
-![der.rev_final]( )
+![der.rev_final](https://github.com/IolandaManzali/decolando_com-_ciencia_de_dados_grupo21/blob/main/assets/der.rev_final.jpg)
 
 ### Entidades e Atributos
 
@@ -60,7 +60,7 @@ Para desenvolver essa atividade foram considerados os seguintes aspectos:
 
 ## Modelo Entidade-Relacionamento (MER)
 
-![mer.rev_final](https://github.com/IolandaManzali/IolandaManzali/blob/main/mer.rev_final.jpg)
+![mer.rev_final](https://github.com/IolandaManzali/decolando_com-_ciencia_de_dados_grupo21/blob/main/assets/mer.rev_final.jpg)
 
  **Entidade IMOVEL RURAL:**
  ** Atributos:**
